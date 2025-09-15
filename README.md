@@ -12,4 +12,3 @@ This repository documents my first steps in learning the C programming language.
   - `count_words.c` → counts the number of words in a string  
   - `split.c` → splits a string into an array of words
   - ...
-
