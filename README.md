@@ -3,6 +3,14 @@ This repository documents my first steps in learning the C programming language.
 
 ---
 
+## 🎯 Goals
+
+- Master the fundamentals of C
+- Develop problem-solving skills
+- Practicing with small projects 🛠️
+
+---
+
 ## 📚 What’s inside  
 
 - 🖥️ **Intro Programs**: `hello_world.c`, variables, conditions, loops  
@@ -12,11 +20,3 @@ This repository documents my first steps in learning the C programming language.
   - `count_words.c` → counts the number of words in a string  
   - `split.c` → splits a string into an array of words
   - ...
-
----
-
-## 🎯 Goals
-
-- Master the fundamentals of C
-- Develop problem-solving skills
-- Practicing with small projects 🛠️
